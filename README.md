@@ -2,7 +2,7 @@
 
 Note: To include AdMob ads in your Cordova or PhoneGap project, please use the Cordova AdMob plugin below:
 
-[https://github.com/sunnycupertino/cordova-plugin-admob-simple/](https://github.com/sunnycupertino/cordova-plugin-admob-simple/ "Cordova AdMob Plugin on GitHub") 
+[https://github.com/MrRobWad/cordova-plugin-admob-simple/](https://github.com/MrRobWad/cordova-plugin-admob-simple/ "Cordova AdMob Plugin on GitHub") 
 
 OR on NPM
 
